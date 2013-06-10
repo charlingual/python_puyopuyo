@@ -1,2 +1,2 @@
 class puyo:
-    hogehoge
+    
